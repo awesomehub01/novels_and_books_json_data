@@ -9,8 +9,8 @@
       "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/Watan_Ya_Kafan/episodes.json"
     },
     {
-      "id": "1",
-      "title": "Zeerak Zann",
+      "id": "2",
+      "title": "Demo",
       "author": "Shakeel Ahmed Chohan",
       "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/Watan_Ya_Kafan.png",
       "category": "Fiction",
