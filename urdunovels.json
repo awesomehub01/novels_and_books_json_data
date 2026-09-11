@@ -2,19 +2,114 @@
   "urdunovels": [
     {
       "id": "1",
-      "title": "Zeerak Zann",
+      "title": "Badalty Rishty",
       "author": "Shakeel Ahmed Chohan",
-      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/Watan_Ya_Kafan.png",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/badaltay-rishtay.png",
       "category": "Fiction",
-      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/Watan_Ya_Kafan/episodes.json"
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/badaltay-rishtay.json"
     },
     {
       "id": "2",
-      "title": "Demo",
+      "title": "Dard e Judai",
       "author": "Shakeel Ahmed Chohan",
-      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/Watan_Ya_Kafan.png",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/darde-judai.png",
       "category": "Fiction",
-      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/Watan_Ya_Kafan/episodes.json"
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/darde-judai.json"
+    },
+    {
+      "id": "3",
+      "title": "Dil Adal Badal",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/dil-adal-badal.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/dil-adal-badal.json"
+    }
+    {
+      "id": "4",
+      "title": "Fasana e Mubtala",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/fasana-e-mubtala.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/fasana-e-mubtala.json"
+    }
+    {
+      "id": "5",
+      "title": "Maan Key Muhaly Meen",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mann-kay-muhallay-mein.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mann-kay-muhallay-mein.json"
+    }
+    {
+      "id": "6",
+      "title": "Phansi",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/phansi.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/phansi.json"
+    }
+    {
+      "id": "7",
+      "title": "Qalander Zaat - Part 3",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-3.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-3.json"
+    }
+    {
+      "id": "8",
+      "title": "Qalander Zaat - Part 2",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-2.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-2.json"
+    }
+    {
+      "id": "9",
+      "title": "Qalander Zaat - Part 1",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-1.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/qalander-zaat-part-1.json"
+    }
+    {
+      "id": "10",
+      "title": "Sehar Hony Taak",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/sehar-honay-tak.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/sehar-honay-tak.json"
+    }
+    {
+      "id": "11",
+      "title": "Shamsheer Be Niyam -part 1",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/shamsheer-be-niyam-part1.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/shamsheer-be-niyam-part1.json"
+    }
+    {
+      "id": "12",
+      "title": "Shehar e Dil",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/shehr-e-dil.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/shehr-e-dil.json"
+    }
+    {
+      "id": "13",
+      "title": "Watan Ya Kafan",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/watan-ya-kafan.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/watan-ya-kafan.json"
+    }, {
+      "id": "14",
+      "title": "Zeerak e Zaan",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zeerak-zann.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zeerak-zann.json"
     }
   ]
 }
