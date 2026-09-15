@@ -153,6 +153,22 @@
       "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/baqa-e-zeest.json"
     },
     {
+      "id": "20",
+      "title": "Ay Junoon Dasht Hai Kay Manzil",
+      "author": "Memona Khurshid Ali",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/ay-junoon-dasht-hai-k-manzil.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/ay-junoon-dasht-hai-k-manzil.json"
+    },
+{
+      "id": "21",
+      "title": "Zanjeer",
+      "author": "Farooq Anjum",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zanjeer.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zanjeer.json"
+    },
+{
       "id": "17",
       "title": "",
       "author": "",
@@ -160,53 +176,125 @@
       "category": "Novel",
       "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
     },
-    {
+{
       "id": "17",
-      "title": "Main Guman Nahi Yaqeen Hon",
-      "author": "Nabila Abrar Raja",
-      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.png",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
       "category": "Novel",
-      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.json"
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
     },
-    {
+{
       "id": "17",
-      "title": "Main Guman Nahi Yaqeen Hon",
-      "author": "Nabila Abrar Raja",
-      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.png",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
       "category": "Novel",
-      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.json"
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
     },
-    {
+{
       "id": "17",
-      "title": "Main Guman Nahi Yaqeen Hon",
-      "author": "Nabila Abrar Raja",
-      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.png",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
       "category": "Novel",
-      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.json"
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
     },
-    {
+{
       "id": "17",
-      "title": "Main Guman Nahi Yaqeen Hon",
-      "author": "Nabila Abrar Raja",
-      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.png",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
       "category": "Novel",
-      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.json"
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
     },
-    {
+{
       "id": "17",
-      "title": "Main Guman Nahi Yaqeen Hon",
-      "author": "Nabila Abrar Raja",
-      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.png",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
       "category": "Novel",
-      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.json"
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
     },
-    {
+{
       "id": "17",
-      "title": "Main Guman Nahi Yaqeen Hon",
-      "author": "Nabila Abrar Raja",
-      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.png",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
       "category": "Novel",
-      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.json"
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
     },
+{
+      "id": "17",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
+    },
+{
+      "id": "17",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
+    },
+{
+      "id": "17",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
+    },
+{
+      "id": "17",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
+    },
+{
+      "id": "17",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
+    },
+{
+      "id": "17",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
+    },
+{
+      "id": "17",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
+    },
+{
+      "id": "17",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
+    },
+{
+      "id": "17",
+      "title": "",
+      "author": "",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.png",
+      "category": "Novel",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/.json"
+    }
   ]
 }
