@@ -111,6 +111,30 @@
       "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zeerak-zann.png",
       "category": "Fiction",
       "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/zeerak-zann.json"
+    },
+{
+      "id": "15",
+      "title": "Ghuroob e Muhabat",
+      "author": "Samaira Ahmed",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/ghuroob-e-mohabbat.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/ghuroob-e-mohabbat.json"
+    },
+{
+      "id": "16",
+      "title": "Chalo Jany Do",
+      "author": "Samaira Ahmed",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/chalo-jaane-do.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/chalo-jaane-do.json"
+    },
+{
+      "id": "17",
+      "title": "Main Guman Nahi Yaqeen Hon",
+      "author": "Nabila Abrar Raja",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.png",
+      "category": "Fiction",
+      "episodes": "https://raw.githubusercontent.com/awesomehub01/novels_and_books_json_data/main/urdunovels/mein-guman-nahi-yaqeen-hon.json"
     }
   ]
 }
